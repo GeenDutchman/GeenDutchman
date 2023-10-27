@@ -1,6 +1,6 @@
 ## Greetings and Salutations! 👋
 
-I'm GeenDutchman.  No, not like the color "green", look again.  There's no "R".  "Geen" is a Dutch word, meaning "not" or "none".  Thus, "I'm not a dutchman".
+I'm GeenDutchman.  No, not like the color "green", look again!  There's no "R"!  "Geen" is a Dutch word, meaning "not" or "none".  Thus, "I'm not a dutchman".
 
 It's a funny joke that I came up with after spending some years learning/speaking Dutch in the Netherlands/Belgium, and I decided it was a good username.
 
