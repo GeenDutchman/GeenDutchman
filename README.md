@@ -2,7 +2,7 @@
 
 I'm GeenDutchman.  No, not like the color "green", look again!  There's no "R"!  "Geen" is a Dutch word, meaning "not" or "none".  Thus, "I'm not a dutchman".
 
-It's a funny joke that I came up with after spending some years learning/speaking Dutch in the Netherlands/Belgium, and I decided it was a good username.
+It's a funny joke that I came up with after spending some years learning/speaking Dutch in the Netherlands/Belgium, and I decided it was a good username.  I also have an account with [Gitlab](https://gitlab.com/GeenDutchman) under the same username, I have a few projects there as well!
 
 ## About
 
